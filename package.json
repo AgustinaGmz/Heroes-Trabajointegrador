@@ -1,0 +1,22 @@
+{
+  "name": "heroesagustinagimenez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinaGmz/Heroes.git"
+  },
+  "author": "Agustina Gimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgustinaGmz/Heroes/issues"
+  },
+  "homepage": "https://github.com/AgustinaGmz/Heroes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
